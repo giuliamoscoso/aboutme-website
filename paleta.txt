@@ -1,0 +1,5 @@
+#9A66FF - roxo claro
+#665DE8 - roxo escuro
+#5D9DE8 - azul escuro
+#66D5FF - azul claro
+#738FFF - rozo azulado
